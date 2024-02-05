@@ -53,6 +53,8 @@ div{
     margin-left: 50px; 
     border-bottom: 2px solid #ffffff; 
     border-left: 5px solid #ffffff; 
+    border-right: none; 
+    border-top: none;
 }
 
 .blue {
@@ -61,6 +63,8 @@ div{
     margin-right: 50px; 
     border-right: 5px solid #ffffff; 
     border-top: 2px solid #ffffff; 
+    border-left: none; 
+    border-bottom: none;
     color: #C4C4C4;
 }
 
@@ -74,6 +78,8 @@ div{
     margin-left: 50px; 
     border-bottom: 2px solid #ffffff; 
     border-left: 5px solid #ffffff; 
+    border-right: none; 
+    border-top: none;
 }
 
 .yellow p {
@@ -86,6 +92,8 @@ div{
     margin-right: 50px; 
     border-right: 5px solid #ffffff; 
     border-top: 2px solid #ffffff; 
+    border-left: none; 
+    border-bottom: none;
 }
 
 footer {
